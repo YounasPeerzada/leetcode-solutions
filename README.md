@@ -160,6 +160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -208,10 +209,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
