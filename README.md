@@ -24,6 +24,7 @@
 | [0204-count-primes](https://github.com/YounusPeerzada/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/YounusPeerzada/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/YounusPeerzada/LeetCode/tree/master/0792-binary-search) |
@@ -85,6 +86,7 @@
 | [0133-clone-graph](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/YounusPeerzada/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Algorithm X
 |  |
 | ------- |
