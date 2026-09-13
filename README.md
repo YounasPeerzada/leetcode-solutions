@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YounusPeerzada/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YounusPeerzada/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YounusPeerzada/LeetCode/tree/master/0075-sort-colors) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0051-n-queens) |
 ## Linked List
 |  |
 | ------- |
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
